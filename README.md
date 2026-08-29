@@ -93,4 +93,7 @@ The analysis identifies:
 - Dashboard created
 - Business insights generated
 - Recommendations provided
+- ## Dashboard
+
+![Sales Dashboard](dashboard.png.jpg)
 
