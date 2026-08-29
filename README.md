@@ -97,3 +97,45 @@ The analysis identifies:
 
 ![Sales Dashboard](dashboard.png.jpg)
 
+
+## 🎯 Objective
+
+The objective of this project is to analyze customer and sales performance using a realistic sales dataset.
+
+## 🧹 Data Cleaning
+
+- Removed duplicate records
+- Checked missing values
+- Standardized data formats
+- Prepared data for analysis
+
+## 📈 Analysis Performed
+
+- Customer performance analysis
+- Product performance analysis
+- Revenue analysis
+- Regional analysis
+- Monthly sales trends
+- Repeat customer behavior
+
+## 💡 Key Insights
+
+- Identified top-performing products
+- Analyzed high-revenue regions
+- Compared monthly sales performance
+- Identified customer purchasing patterns
+
+## 🚀 Recommendations
+
+- Focus on high-performing products
+- Improve marketing in high-potential regions
+- Encourage repeat purchases
+- Monitor monthly sales trends
+
+## 🛠️ Tools Used
+
+- Microsoft Excel
+- Data Analysis
+- Data Visualization
+- GitHub
+
